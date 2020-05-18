@@ -1,0 +1,2 @@
+#przykladowe repo
+print("elegancko")
